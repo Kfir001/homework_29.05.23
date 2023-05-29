@@ -1,0 +1,4 @@
+39. Write a JavaScript function to uncapitalized the first character of a string.
+Test Data :
+console.log(Uncapitalized('Js string exercises'));
+"js string exercises"

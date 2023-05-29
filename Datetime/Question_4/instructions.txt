@@ -1,0 +1,5 @@
+39. Write a JavaScript function to get the difference between Greenwich time (GMT) and in hours.
+Test Data :
+dt = new Date();
+console.log(diff_to_GMT(dt));
+"+05.500"
